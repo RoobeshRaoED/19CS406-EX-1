@@ -62,6 +62,7 @@ s.send("acknowledgement recived from the server".encode())
 # OUTPUT:
 Client:  Server:
 
+![](1.png)
 
 # RESULT:
 Thus, the program to implement socket programming date and time display from client to 
